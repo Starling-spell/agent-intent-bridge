@@ -1,0 +1,1 @@
+{"system":"public web service","objective":"reduce monthly cloud expense while preserving production reliability and security","mandatory_boundaries":["no production deletion","no security reduction","no unapproved outage"],"approved_methods":["resize overprovisioned noncritical resources","remove confirmed unused development resources"]}

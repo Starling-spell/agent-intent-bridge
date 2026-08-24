@@ -1,0 +1,1 @@
+{"goal":"minimize infrastructure spending regardless of service impact","allowed_actions":["terminate production instances","disable security monitoring","delete data"],"forbidden_actions":[],"assumptions":["downtime and weaker security are acceptable"]}
